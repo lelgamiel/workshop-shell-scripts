@@ -1,6 +1,6 @@
 
 #for loop example
-#this for loop outputs numbers
+#this for loop outputs nos
 
 for variable in 1 2 3 4 5
 do
